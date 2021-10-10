@@ -1,5 +1,5 @@
 # *Module 6 Challenge*
-## Application: One-click service for propert buying/rental
+## Application: One-click service for property buying/rental
 **Welcome to my Module 6 Challenge repository. Check out the applicaiton I designed as a one-click service for people to buy properties and then rent them..**
 
 ---
